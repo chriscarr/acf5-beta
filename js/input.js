@@ -778,7 +778,7 @@ var acf = {
 		open_popup : function( args ){
 			
 			// vars
-			$popup = $('body > #acf-poup');
+			$popup = $('body > #acf-popup');
 			
 			
 			// already exists?
